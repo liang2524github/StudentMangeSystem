@@ -22,6 +22,8 @@
 #include "flush.h"
 #include "tuichu.h"
 
+//我使用文件来保存数据
+
 int main()
 {
     
